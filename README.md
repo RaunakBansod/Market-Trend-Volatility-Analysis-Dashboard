@@ -58,7 +58,7 @@ Python 3.8+
 pip / conda
 
 Installation
-git clone https://github.com/yourusername/Market-Volatility-Dashboard.git
+git clone https://github.com/RaunakBansod/Market-Volatility-Dashboard.git
 cd Market-Volatility-Dashboard
 pip install -r requirements.txt
 
